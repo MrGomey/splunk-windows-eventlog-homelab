@@ -56,6 +56,7 @@ server = <splunk-server-ip>:9997
 
 [tcpout-server://<splunk-server-ip>:9997]
 
+
 SPL Searches Practiced
 
 - View All Events
@@ -114,6 +115,12 @@ Future Enhancements
 - Add Windows Server as an additional log source
 - Develop custom SPL detections and alerts
 - Expand into SOC-style monitoring scenarios
+
+SCREENSHOTS
+<img width="1501" height="820" alt="Screenshot 2026-06-08 at 11 38 31 AM" src="https://github.com/user-attachments/assets/084c1b0e-70e3-4306-9172-b9fc5dc97ce0" />
+<img width="1502" height="815" alt="Screenshot 2026-06-08 at 11 05 37 AM" src="https://github.com/user-attachments/assets/8ff453b9-6121-402c-adef-fa3b61e82518" />
+<img width="1504" height="749" alt="Screenshot 2026-06-08 at 10 44 42 AM" src="https://github.com/user-attachments/assets/46980ad7-b758-4305-8c88-113da9e69e0e" />
+
 
 
 Anthony Gomes
